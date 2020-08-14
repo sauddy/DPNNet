@@ -1,6 +1,6 @@
 # DPNNet
 Disk Planet Neural Network
-This is an upadted version of the code used in the DPNNet paper Auddy and Lin 2020. 
+This is an upadted version of the code used in the DPNNet paper by Auddy and Lin 2020. 
 Here we have considered the data from Flared disk comapred to non-flared disk earlier.
 The code is not yet optimized. 
 
