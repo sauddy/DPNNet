@@ -5,3 +5,5 @@ Here we have considered the data from Flared disk comapred to non-flared disk ea
 The code is not yet optimized. 
 
 Please refer to the DPNNet paper for details regarding the Network setup.
+
+ArXiv Link : https://arxiv.org/abs/2007.13779
