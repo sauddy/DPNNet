@@ -6,4 +6,10 @@ The code is not yet optimized.
 
 Please refer to the DPNNet paper for details regarding the Network setup.
 
+https://ui.adsabs.harvard.edu/abs/2020ApJ...900...62A/abstract
+
 ArXiv Link : https://arxiv.org/abs/2007.13779
+
+To learn more about the application of netwrokplease refer to my blog post
+
+https://sayantanauddy21.wixsite.com/sayantanauddy/research-blog
