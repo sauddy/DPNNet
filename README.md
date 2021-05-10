@@ -13,3 +13,8 @@ ArXiv Link : https://arxiv.org/abs/2007.13779
 To learn more about the application of network please refer to my blog post
 
 https://sayantanauddy21.wixsite.com/sayantanauddy/research-blog
+
+
+
+[Tensor_Flow_image_4May.pdf](https://github.com/sauddy/DPNNet/files/6455425/Tensor_Flow_image_4May.pdf)
+
