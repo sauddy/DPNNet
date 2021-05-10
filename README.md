@@ -16,5 +16,6 @@ https://sayantanauddy21.wixsite.com/sayantanauddy/research-blog
 
 
 
-[Tensor_Flow_image_4May.pdf](https://github.com/sauddy/DPNNet/files/6455425/Tensor_Flow_image_4May.pdf)
+![Tensor_Flow_image_4May](https://user-images.githubusercontent.com/46558389/117735098-703cd380-b1ba-11eb-9161-5494a1ab5b9f.png)
+
 
